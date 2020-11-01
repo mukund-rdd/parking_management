@@ -29,4 +29,3 @@ class Parking:
 				
 	
 Parking()    # CALLING PARKING CLASS 
-	
