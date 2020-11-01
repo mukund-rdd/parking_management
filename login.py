@@ -130,8 +130,8 @@ class Login:
 			# LOOP TO WAIT FOR CAPTURING EVENTS AND VALUES OF LOGIN WINDOW
 
 			login_window.mainloop()
-		
+"""		
 		                            
 
 
-		                                             """ END OF SCRIPT """
+		                                                  END OF SCRIPT             """		

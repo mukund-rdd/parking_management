@@ -325,10 +325,3 @@ class Admin:                        #ADMIN CLASS WHICH IS CALLED IN LOGIN SCRIPT
 			parking_button = Button(a_window, text="EDIT PARKING DETAILS", bg="white", fg="black", padx=40, pady=20,
 									 activebackground="red", command=self.park_details)
 			parking_button.grid(row=3, column=1)
-
-
-		
-		                            
-
-
-		                                             """ END OF SCRIPT """

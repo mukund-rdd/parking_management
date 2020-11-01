@@ -70,8 +70,8 @@ class Gui:                               # CLASS FOR GUI ,WHICH IS CALLED IN MAI
 			main_window.protocol("WM_DELETE_WINDOW",self.on_closing) # CAPTURING CLOSING EVENT
 
 			main_window.mainloop() # LOOP TO WAIT FOR CAPTURING EVENTS AND VALUES OF MAIN WINDOW
-		
+"""		
 		                            
 
 
-		                                             """ END OF SCRIPT """
+		                                                  END OF SCRIPT             """		

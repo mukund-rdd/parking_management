@@ -159,11 +159,11 @@ class Database:
 			except:
 				pass	
 			self.con.commit()  # COMMITING CHANGES TO DATABASE
-		
+"""		
 		                            
 
 
-		                                             """ END OF SCRIPT """			
+		                                                  END OF SCRIPT             """			
 
 		
 
